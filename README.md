@@ -1,0 +1,1 @@
+**DSTG 3. zadatak - Fast-Forward Merge**
